@@ -1,0 +1,4 @@
+alias run_nba_data='python3 /Applications/SportsBettingApp/templates/nba_teams_data.py'
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
